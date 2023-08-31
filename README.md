@@ -5,4 +5,4 @@
 - 🎵 Love Lofi and Jazz music
 
 Don't forget to check out [my website](leyangpan.me)
-& Feel free to [reach out](mailto:mailto@leyangpan.me)  to me
+& feel free to [reach out](mailto:mailto@leyangpan.me)  to me
