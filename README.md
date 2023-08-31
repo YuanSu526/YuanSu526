@@ -4,5 +4,5 @@
 - 😎 Build website & Write Scripts
 - 🎵 Love Lofi and Jazz music
 
-Don't forget to check out [my website](leyangpan.me)
+Don't forget to check out [my website](https://leyangpan.me)
 & feel free to [reach out](mailto:mailto@leyangpan.me)  to me
