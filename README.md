@@ -1,7 +1,7 @@
 ### Hello, I'm Leyang Pan
 - 🖥️ Third year Computer Engineering student from UBC
 - 💪 Strongly motivated and always moving forward
-- 😎 Build website & Write scripts
+- 😎 Backend developer
 - 🎵 Love Lofi and Jazz music
 
 Don't forget to check out [my website](https://leyangpan.me)
