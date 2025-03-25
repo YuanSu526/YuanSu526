@@ -1,5 +1,5 @@
 ### Hello, I'm Leyang Pan
-- 🖥️ Third-year Computer Engineering student from UBC
+- 🖥️ Fourth-year Computer Engineering student from UBC
 - 💪 Strongly motivated and always moving forward
 - 😎 Software and Website developer
 - 🤖 Love AI and Machine Learning
